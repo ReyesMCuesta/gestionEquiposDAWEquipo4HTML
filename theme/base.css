@@ -1,0 +1,25 @@
+iframe {
+    margin-left:30%;
+}
+
+nav {
+    margin-left:38%;
+    margin-top:5%;
+    margin-bottom: 3%;
+}
+
+nav a{
+    border: solid black 1px;
+    padding: 1em;
+
+    margin-left:2%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:white;
+    background-color: black;
+}
