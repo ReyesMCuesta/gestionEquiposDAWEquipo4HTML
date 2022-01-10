@@ -1,9 +1,7 @@
-iframe {
-    margin-left:30%;
-}
+body { margin: 0; height: 100%; text-align: center;}
+iframe { overflow: hidden;}
 
 nav {
-    margin-left:38%;
     margin-top:5%;
     margin-bottom: 3%;
 }
@@ -11,7 +9,6 @@ nav {
 nav a{
     border: solid black 1px;
     padding: 1em;
-
     margin-left:2%;
 }
 
